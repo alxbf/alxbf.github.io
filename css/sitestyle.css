@@ -1,0 +1,41 @@
+a {text-decoration: none;}
+
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: arial, verdana, helvetica, sans-serif;
+  margin: 10px 0 0 100px;
+}
+
+h2 {
+  font-family: arial, verdana, helvetica, sans-serif;
+  margin: 10px 0 0 50px;
+}
+
+td {
+  font-family: arial, verdana, helvetica, sans-serif;
+  margin: 10px 0 0 75px;
+}
+
+.header {
+  background-color: #99F;
+  border: 1px solid black;
+  border-width: 1px 0;
+  font-family: monospace, consolas;
+  font-size: x-large;
+  margin-top: 10px;
+}
+
+.main-links {
+  background-color: #9F9;
+  border: 1px solid black;
+  border-width: 1px 0;
+  font-family: monospace, consolas, courier;
+  margin-top: 10px;
+}
+
+.main-links a {margin-left: 15px;}
